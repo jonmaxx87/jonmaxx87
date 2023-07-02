@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonmaxx87
-- 👀 I’m interested in Web Development, Programming Language and Linux OS.
+- 👀 I’m interested in Web Development, Programming Languages and Linux OS.
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
